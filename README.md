@@ -6,7 +6,9 @@ the html version of project 2
 
 <p><Graduated from Elementary School: 2014/p></Graduated>
 
-<h>Graduated from Junior High: 2017</h>
+<p>Graduated from Junior High: 2017</p>
+
+<p>Grade: Sophomore</p>
 
 <h1>Summary</h1>
 
